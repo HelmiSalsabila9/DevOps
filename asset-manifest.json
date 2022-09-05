@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d960499a.css",
-    "main.js": "/static/js/main.c0a3ce63.js",
+    "main.js": "/static/js/main.f18cf422.js",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
     "static/media/p2.png": "/static/media/p2.219a5d7b05249df25e9c.png",
     "static/media/values.png": "/static/media/values.a62f5a60348c8cb91b1e.png",
@@ -20,6 +20,7 @@
     "static/media/header_kontak.png": "/static/media/header_kontak.7b6c0913bc48bbec6a60.png",
     "static/media/karir13.png": "/static/media/karir13.70dee9d5bf723836646d.png",
     "static/media/p9.png": "/static/media/p9.52ffc57d724080659803.png",
+    "static/media/testi2.jpeg": "/static/media/testi2.667eb66fcec7cabb8e1a.jpeg",
     "static/media/aing.png": "/static/media/aing.652377f3b1ba5dea263d.png",
     "static/media/karir5.png": "/static/media/karir5.b81f93b61d84510abab6.png",
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
@@ -36,16 +37,19 @@
     "static/media/karir9.png": "/static/media/karir9.60a6b68e93858d5b31fe.png",
     "static/media/karir6.png": "/static/media/karir6.7ce7c57bd9a99ad27aa1.png",
     "static/media/header_bisnis.png": "/static/media/header_bisnis.e373a72094f4eb81fca6.png",
+    "static/media/testi1.png": "/static/media/testi1.394a34b025db1adafd61.png",
     "static/media/logoku.png": "/static/media/logoku.173ccd1f30d4309a1240.png",
     "static/media/header_about.png": "/static/media/header_about.a90d0885c771a1d27b90.png",
-    "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/testi5.png": "/static/media/testi5.500399a061747f7f7bce.png",
+    "static/media/testi4.png": "/static/media/testi4.c1161929def0e903c4d3.png",
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
+    "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
     "index.html": "/index.html",
     "main.d960499a.css.map": "/static/css/main.d960499a.css.map",
-    "main.c0a3ce63.js.map": "/static/js/main.c0a3ce63.js.map"
+    "main.f18cf422.js.map": "/static/js/main.f18cf422.js.map"
   },
   "entrypoints": [
     "static/css/main.d960499a.css",
-    "static/js/main.c0a3ce63.js"
+    "static/js/main.f18cf422.js"
   ]
 }
