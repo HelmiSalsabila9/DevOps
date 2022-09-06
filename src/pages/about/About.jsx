@@ -3,6 +3,7 @@ import HeaderImage from '../../images/header_about.png'
 import StoryImgae from '../../images/about1.png'
 import VisionImgae from '../../images/about2.png'
 import MissionImgae from '../../images/about3.png'
+import Donasi from '../../images/about4.png'
 import './about.css'
 
 const About = () => {
@@ -54,12 +55,13 @@ const About = () => {
         <div className="container about__vision-container">
           <div className="about__section-content">
             <h1>Open Donasi</h1>
+            <p>Donasi bisa dilakukan dengan menscan QRIS pada gambar disamping kanan arahkan kursor ke gambar agar gambar bisa tegak lurus saat discan, atau bisa juga menggunakan cara yang dibawah ini.</p>
             <h3><p><a href="https://saweria.co/helmisalsabila" target="_blank" rel="noreferrer noopener">Donasi boleh disini.</a></p></h3>
             <p>Saya ucapkan terimakasih banyak semoga Allah swt membalas kebaikan anda.</p>
             <p>Amin.. </p>
           </div>
           <div className="about__section-image-vision">
-            <img src={VisionImgae} alt="Vision images" />
+            <img src={Donasi} alt="Donasi" />
           </div>
         </div>
       </section>
