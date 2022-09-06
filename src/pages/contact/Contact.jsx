@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <>
       <Header title="Berhubungan" image={HeaderImage}>
-        Terima bekerja sama bisnis ataupun yang lainnya serta kritik dan saran agar website yang saya buat jauh lebih baik lagi. Silakan hubungi yang ada di bawah ini:  
+        Menerima bekerja sama dalam hal bisnis ataupun yang lainnya serta kritik dan saran agar website yang saya buat jauh lebih baik lagi. Silakan hubungi yang ada di bawah ini:  
       </Header>
       <section className='contact'>
         <div className="container contact__container">
