@@ -5,6 +5,7 @@ import Contact from './pages/contact/Contact'
 import Karir from './pages/karir/Karir'
 import Mitra from './pages/mitra/Mitra'
 import Bisnis from './pages/bisnis/Bisnis'
+import Sertifikat from './pages/sertifikat/Sertifikat'
 import NotFound from './pages/notFound/NotFound'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -21,6 +22,7 @@ const App = () => {
                 <Route path='karir' element={<Karir/>} />
                 <Route path='about' element={<About/>} />
                 <Route path='contact' element={<Contact/>} />
+                <Route path='sertifikat' element={<Sertifikat/>} />
                 <Route path='*' element={<NotFound/>} />
             </Routes>
             <Footer/>

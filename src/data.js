@@ -11,6 +11,10 @@ export const links = [
         name: "Produk",
         path: '/bisnis'
     },
+    {
+        name: "Sertifikasi",
+        path: '/sertifikat'
+    },
     // {
     //     name: "Kemitraan",
     //     path: '/mitra'

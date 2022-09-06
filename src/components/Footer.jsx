@@ -44,7 +44,7 @@ const Footer = () => {
             <article>
                 <h4>Berhubungan</h4>
                 <Link to="/contact">Kontak</Link>
-                <a href="https://ageneskrimcampinaarjawinangun.business.site/" target='_blank' rel="noreferrer noopener">Agen</a>
+                <a href="https://ageneskrimcampinaarjawinangun.business.site/" target='_blank' rel="noreferrer noopener">Loker</a>
             </article>
         </div>
         <div className="footer__copyright">
