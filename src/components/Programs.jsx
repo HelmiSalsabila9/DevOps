@@ -10,7 +10,7 @@ const Programs = () => {
     <section className='programs'>
         <div className="container programs__container">
             <SectionHead icon={<FaCrown/>} title="Projek"/>
-            <p>Projek adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus.</p>
+            <p>Projek adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus dan jangan lupa untuk kasih bintang agar tidak error codenya boleh di follow juga ya</p>
             <div className="programs__wrapper">
                 {
                     programs.map(({id, icon, title, info, path}) => {

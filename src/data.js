@@ -85,6 +85,34 @@ export const programs = [
         info: "Bertujuan untuk belajar membuat website portfolio menggunakan Css Tailwind",
         path: "https://github.com/HelmiSalsabila9/Tailwind-Portfolio"
     },
+    {
+        id: 8,
+        icon: <SiOpenaigym/>,
+        title: "Membuat Aplikasi Dengan framework Django",
+        info: "Untuk memenuhi tugas besar dari matakuliah Keamanan Sistem Informasi dengan membuat Django Password dan Django Register di lengkapi dengan beberapa validasi dan menampilkan nama user ketika berhasil login",
+        path: "https://github.com/HelmiSalsabila9/DjangoPass"
+    },
+    {
+        id: 9,
+        icon: <SiOpenaigym/>,
+        title: "Membuat Template Yudisium Politeknik Pos Indonesia",
+        info: "Ini adalah projek desain yang saya buat untuk acara yudisium secara daring yaknik jurusan Teknik Informatika Politeknik Pos Indonesia T.A 2020-2021",
+        path: "https://github.com/HelmiSalsabila9/TEMPLATES_YUSIDUM"
+    },
+    {
+        id: 10,
+        icon: <SiOpenaigym/>,
+        title: "Tugas Besar Pemrograman 2",
+        info: "Membuat aplikasi pemesanan makanan dengan menggunakan ASP.NET Core dan menerapkan MVC",
+        path: "https://github.com/HelmiSalsabila9/TB_Pemrograman2"
+    },
+    {
+        id: 11,
+        icon: <SiOpenaigym/>,
+        title: "Tugas Besar Pemrograman 3",
+        info: "Membuat aplikasi dan menerapkan Web API",
+        path: "https://github.com/HelmiSalsabila9/Tugas_Pemrograman3_Web_API"
+    },
 ]
 
 
