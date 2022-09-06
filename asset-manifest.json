@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1446eea.css",
-    "main.js": "/static/js/main.58385634.js",
+    "main.css": "/static/css/main.0b088255.css",
+    "main.js": "/static/js/main.270c04a5.js",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
     "static/media/p2.png": "/static/media/p2.219a5d7b05249df25e9c.png",
     "static/media/values.png": "/static/media/values.a62f5a60348c8cb91b1e.png",
@@ -23,18 +23,36 @@
     "static/media/testi2.jpeg": "/static/media/testi2.667eb66fcec7cabb8e1a.jpeg",
     "static/media/aing.png": "/static/media/aing.652377f3b1ba5dea263d.png",
     "static/media/karir5.png": "/static/media/karir5.b81f93b61d84510abab6.png",
+    "static/media/header_sertifikat.png": "/static/media/header_sertifikat.cc7847a42d5e7a940e74.png",
+    "static/media/serti4.png": "/static/media/serti4.32eac0167aa6ef6f1d8b.png",
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
     "static/media/karir8.png": "/static/media/karir8.de2470989f100d7e4c2a.png",
     "static/media/karir3.png": "/static/media/karir3.0f8c9c528e0b4fb6d8b0.png",
     "static/media/karir7.png": "/static/media/karir7.ee699a6055a76142ecc7.png",
     "static/media/karir2.png": "/static/media/karir2.434ede77a7288bf021a1.png",
     "static/media/karir10.png": "/static/media/karir10.314672ce724e4775aaee.png",
+    "static/media/serti6.png": "/static/media/serti6.e2e21ddc06ca7f6b54fc.png",
+    "static/media/serti5.png": "/static/media/serti5.beaa2f0d506e0cb048a0.png",
+    "static/media/serti2.png": "/static/media/serti2.9b9e3fb46fb66f0c3df2.png",
+    "static/media/serti3.png": "/static/media/serti3.9874ef9697aeda4b6895.png",
+    "static/media/serti1.png": "/static/media/serti1.4ef3a959b8d98752cea4.png",
     "static/media/karir1.png": "/static/media/karir1.5c207d658c08bbcdd386.png",
     "static/media/karir11.png": "/static/media/karir11.fad203a211c6cfd7263e.png",
     "static/media/header_karir.png": "/static/media/header_karir.8d193df93d875d70f2f2.png",
+    "static/media/serti7.png": "/static/media/serti7.9babd92db4de960ec396.png",
     "static/media/karir12.png": "/static/media/karir12.af4a36bd40409766f65b.png",
+    "static/media/serti8.png": "/static/media/serti8.81a52223251cc23e89d7.png",
+    "static/media/serti15.png": "/static/media/serti15.c66bc71e71b447a96471.png",
+    "static/media/serti10.png": "/static/media/serti10.a55fc94a7bef3d27d156.png",
+    "static/media/serti14.png": "/static/media/serti14.204794248c43f1680f2b.png",
+    "static/media/serti13.png": "/static/media/serti13.b3e88f21a5a2abd14c6e.png",
+    "static/media/serti17.png": "/static/media/serti17.b5aa7060c0b725570ace.png",
+    "static/media/serti11.png": "/static/media/serti11.0a388812c90115837ba2.png",
+    "static/media/serti12.png": "/static/media/serti12.c6f93149ac40124cc03e.png",
+    "static/media/serti9.png": "/static/media/serti9.89ce0f03fda614e659c1.png",
     "static/media/karir4.png": "/static/media/karir4.69ba14e53194bbebba0e.png",
     "static/media/karir9.png": "/static/media/karir9.60a6b68e93858d5b31fe.png",
+    "static/media/serti16.png": "/static/media/serti16.d0123e1dc4cd0c4c2681.png",
     "static/media/karir6.png": "/static/media/karir6.7ce7c57bd9a99ad27aa1.png",
     "static/media/about4.png": "/static/media/about4.ad94087e2f800cbcbc61.png",
     "static/media/header_bisnis.png": "/static/media/header_bisnis.e373a72094f4eb81fca6.png",
@@ -47,11 +65,11 @@
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
     "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
     "index.html": "/index.html",
-    "main.b1446eea.css.map": "/static/css/main.b1446eea.css.map",
-    "main.58385634.js.map": "/static/js/main.58385634.js.map"
+    "main.0b088255.css.map": "/static/css/main.0b088255.css.map",
+    "main.270c04a5.js.map": "/static/js/main.270c04a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1446eea.css",
-    "static/js/main.58385634.js"
+    "static/css/main.0b088255.css",
+    "static/js/main.270c04a5.js"
   ]
 }
