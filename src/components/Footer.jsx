@@ -40,6 +40,8 @@ const Footer = () => {
             <article>
                 <h4>Wawasan</h4>
                 <Link to="/maintenance">Blog</Link>
+                <Link to="/hostings">Hosting</Link>
+                <Link to="/sertifikat">Sertifikasi</Link>
             </article>
             <article>
                 <h4>Berhubungan</h4>

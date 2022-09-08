@@ -1,31 +1,31 @@
-.trainers {
+.hostings {
     margin-top: 5rem;
 }
 
-.trainers__container {
+.hostings__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 4rem;
 }
 
-.card.trainer {
+.card.hosting {
     padding: 1rem;
 }
 
-.trainer__img {
+.hosting__img {
     border-radius: 0 2rem;
     overflow: hidden;
 }
 
-.trainer h3 {
+.hosting h3 {
     margin-top: 0.5rem;
 }
 
-.trainer p {
+.hosting p {
     margin-top: 0.5rem;
 }
 
-.trainer__socials {
+.hosting__socials {
     display: flex;
     gap: 1rem;
     justify-content: center;
@@ -33,41 +33,41 @@
     margin: 2rem 0;
 }
 
-.trainer__socials a {
+.hosting__socials a {
+    font-size: 1rem;
     background: var(--color-gray-600);
-    font-size: 1.5rem;
     padding: 0.8rem;
     border-radius: 0 1rem;
     transition: var(--transition);
 }
 
-.trainer__socials a:hover {
+.hosting__socials a:hover {
     background: var(--color-secondary);
 }
 
-.trainer:hover a {
+.hosting:hover a {
     background: var(--color-gray-500);
 }
-.trainer a:hover {
+.hosting a:hover {
     background: var(--color-secondary);
 }
 
 
 /* RESPONSIVE */
 @media screen and (max-width: 1024px) {
-    .trainers__container {
+    .hostings__container {
         grid-template-columns: 1fr 1fr;
         gap: 2.5rem;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .trainers__container {
+    .hostings__container {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
     
-    .card.trainer {
+    .card.hosting {
         width: 90%;
         margin-inline: auto;
     }

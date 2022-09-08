@@ -12,9 +12,13 @@ export const links = [
         path: '/bisnis'
     },
     {
-        name: "Sertifikasi",
-        path: '/sertifikat'
+        name: "Hosting",
+        path: '/hostings'
     },
+    // {
+    //     name: "Sertifikasi",
+    //     path: '/sertifikat'
+    // },
     // {
     //     name: "Kemitraan",
     //     path: '/mitra'
@@ -424,5 +428,61 @@ export const trainers = [
         name: 'Daster Tali Samping Bahan Rayon Twill 12',
         job: 'Rp 60.000',
         socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729480604587165966?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-tali-samping-bahan-rayon-twill-12']
+    },
+]
+
+
+const hosting1 = require('./images/hosting1.png')
+const hosting2 = require('./images/hosting2.png')
+const hosting3 = require('./images/hosting3.png')
+const hosting4 = require('./images/hosting4.png')
+const hosting5 = require('./images/hosting5.png')
+const hosting6 = require('./images/hosting6.png')
+
+
+
+
+export const hosting = [
+    {
+        id: 1,
+        image: hosting1,
+        title: 'Niagahoster',
+        info: 'Misi Niagahoster adalah membantu jutaan orang memanfaatkan potensi yang ada di internet untuk membangun kesuksesan online melalui layanan web hosting yang stabil, cepat dan mudah.',
+        path: 'https://www.niagahoster.co.id/ref/790560'
+    },
+    {
+        id: 2,
+        image: hosting2,
+        title: 'IdCloudHost',
+        info: 'IDCloudHost adalah penyedia layanan Web Hosting Provider berbasis SSD Cloud Hosting yang mempunyai tujuan untuk selalu menjaga website tetap hidup dan cepat di akses dari berbagai negara. Saat ini tersedia Beberapa Data Center Utama yang dapat Anda gunakan dengan berlangganan menggunakan layanan Kami.',
+        path: 'https://my.idcloudhost.com/aff.php?aff=11428'
+    },
+    {
+        id: 3,
+        image: hosting3,
+        title: 'Gapura Hoster',
+        info: 'Layanan web hosting murah di Indonesia dengan cara pembayaran yang mudah serta tim technical support berbahasa Indonesia yang berpengalaman yang siap membantu kendala teknis pada layanan hosting anda.',
+        path: 'https://gapurahoster.co.id/member/aff.php?aff=1339'
+    },
+    {
+        id: 4,
+        image: hosting4,
+        title: 'Jagoan Hosting',
+        info: 'Kami selalu berinovasi dalam layanan kami untuk mempermudah pekerjaan Anda, sehingga Anda dapat fokus membuat aplikasi keren dan menjadikan Anda mitra terbaik untuk klien & bisnis',
+        path: 'https://member.jagoanhosting.com/aff.php?aff=5970'
+    },
+    {
+        id: 5,
+        image: hosting5,
+        title: 'Dewabiz',
+        info: 'Dewabiz adalah perusahaan hosting yang terjangkau dan handal. Sejak didirikan pada tahun 2016 Dewabiz terus berinovasi teknik baru untuk memenuhi misi kami Perusahaan hosting terbaik untuk Pengusaha Online hingga Blogger Indonesia. kami menyediakan layanan Hosting, Domain, Server & SEO.',
+        path: 'https://my.dewabiz.com/aff.php?aff=1971'
+    },
+    {
+        id: 6,
+        image: hosting6,
+        title: 'Qwords',
+        info: 'Qwords adalah perusahaan teknologi yang menyediakan manajemen Web Hosting, solusi Cloud & Data Center, Nama Domain, dan layanan digital lainnya. Qwords memiliki pengalaman lebih dari 16 tahun dengan membantu para pebisnis dan profesional untuk memaksimalkan internet dengan menyediakan layanan web hosting.',
+        path: 'https://portal.qwords.com/aff.php?aff=5332'
     },
 ]
