@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b088255.css",
-    "main.js": "/static/js/main.c3da70d7.js",
+    "main.css": "/static/css/main.1718cc2a.css",
+    "main.js": "/static/js/main.73c6cf99.js",
+    "static/media/header_hosting.png": "/static/media/header_hosting.c2963b872e47e6aa984e.png",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
     "static/media/p2.png": "/static/media/p2.219a5d7b05249df25e9c.png",
     "static/media/values.png": "/static/media/values.a62f5a60348c8cb91b1e.png",
@@ -19,15 +20,19 @@
     "static/media/header_mitra.png": "/static/media/header_mitra.1b451ff405f6e006b4cc.png",
     "static/media/header_kontak.png": "/static/media/header_kontak.7b6c0913bc48bbec6a60.png",
     "static/media/karir13.png": "/static/media/karir13.70dee9d5bf723836646d.png",
+    "static/media/hosting2.png": "/static/media/hosting2.1877844957c8b6e7e25c.png",
     "static/media/p9.png": "/static/media/p9.52ffc57d724080659803.png",
     "static/media/testi2.jpeg": "/static/media/testi2.667eb66fcec7cabb8e1a.jpeg",
+    "static/media/hosting4.png": "/static/media/hosting4.3e5607d8c56f30d444d5.png",
     "static/media/aing.png": "/static/media/aing.652377f3b1ba5dea263d.png",
+    "static/media/hosting6.png": "/static/media/hosting6.2fedcdefc70ca09cb85d.png",
     "static/media/karir5.png": "/static/media/karir5.b81f93b61d84510abab6.png",
     "static/media/header_sertifikat.png": "/static/media/header_sertifikat.cc7847a42d5e7a940e74.png",
     "static/media/serti4.png": "/static/media/serti4.32eac0167aa6ef6f1d8b.png",
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
     "static/media/karir8.png": "/static/media/karir8.de2470989f100d7e4c2a.png",
     "static/media/karir3.png": "/static/media/karir3.0f8c9c528e0b4fb6d8b0.png",
+    "static/media/hosting1.png": "/static/media/hosting1.4d85fc17d9d21d1660b7.png",
     "static/media/karir7.png": "/static/media/karir7.ee699a6055a76142ecc7.png",
     "static/media/karir2.png": "/static/media/karir2.434ede77a7288bf021a1.png",
     "static/media/karir10.png": "/static/media/karir10.314672ce724e4775aaee.png",
@@ -37,8 +42,10 @@
     "static/media/serti3.png": "/static/media/serti3.9874ef9697aeda4b6895.png",
     "static/media/serti1.png": "/static/media/serti1.4ef3a959b8d98752cea4.png",
     "static/media/karir1.png": "/static/media/karir1.5c207d658c08bbcdd386.png",
+    "static/media/hosting3.png": "/static/media/hosting3.fe71448366729c1d00a9.png",
     "static/media/karir11.png": "/static/media/karir11.fad203a211c6cfd7263e.png",
     "static/media/header_karir.png": "/static/media/header_karir.8d193df93d875d70f2f2.png",
+    "static/media/hosting5.png": "/static/media/hosting5.a0cb65255af990b4e544.png",
     "static/media/serti7.png": "/static/media/serti7.9babd92db4de960ec396.png",
     "static/media/karir12.png": "/static/media/karir12.af4a36bd40409766f65b.png",
     "static/media/serti8.png": "/static/media/serti8.81a52223251cc23e89d7.png",
@@ -65,11 +72,11 @@
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
     "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
     "index.html": "/index.html",
-    "main.0b088255.css.map": "/static/css/main.0b088255.css.map",
-    "main.c3da70d7.js.map": "/static/js/main.c3da70d7.js.map"
+    "main.1718cc2a.css.map": "/static/css/main.1718cc2a.css.map",
+    "main.73c6cf99.js.map": "/static/js/main.73c6cf99.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b088255.css",
-    "static/js/main.c3da70d7.js"
+    "static/css/main.1718cc2a.css",
+    "static/js/main.73c6cf99.js"
   ]
 }
