@@ -8,7 +8,7 @@ const MainHeader = () => {
         <div className="main__header-left">
           <h4>Halo, Saya Helmi Salsabila</h4>
           <h1>Mahasiswa Teknik Informatika di Universitas Logistik dan Bisnis Internasional</h1>
-          <p>Saya adalah seorang mahasiswa semester 7 di Universitas Logistik dan Bisnis Internasional, saya mengambil prodi Diploma 4 jurusan Teknik Informatika. Saya juga seorang yang flexsible kerja apapun dan dimanapun siap, memiliki pengalaman kerja dan magang dimana saya dapat menyelesaikan pekerjaan dengan baik.</p>
+          <p>Saya seorang Mahasiswa di Universitas Logistik dan Bisnis Internasional mencari peluang dalam Pemrograman, Analis Data, Sains Data, Pembelajaran Mesin dan Desain dengan latar belakang Teknik Informatika.</p>
           <Link to="/about" className="btn lg">Lihat Detail</Link>
         </div>
         <div className="main__header-right">
