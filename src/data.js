@@ -342,6 +342,13 @@ const Produk9 = require('./images/p9.png')
 const Produk10 = require('./images/p10.png')
 const Produk11 = require('./images/p11.png')
 const Produk12 = require('./images/p12.png')
+const Produk13 = require('./images/p13.png')
+const Produk14 = require('./images/p14.png')
+const Produk15 = require('./images/p15.png')
+const Produk16 = require('./images/p16.png')
+const Produk17 = require('./images/p17.png')
+
+
 
 
 export const trainers = [
@@ -350,86 +357,123 @@ export const trainers = [
         image: Produk1,
         name: 'Daster Standar Bahan Rayon 6',
         job: 'Rp 55.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469423527758094?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-6']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469423527758094?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-6']
     },
     {
         id: 2,
         image: Produk2,
         name: 'Daster Jumbo Bahan Rayon 5',
         job: 'Rp 60.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469428664273166?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-5']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469428664273166?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-5']
     },
     {
         id: 3,
         image: Produk3,
         name: 'Daster Standar Bahan Rayon 1',
         job: 'Rp 55.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469435897940238?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-1']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469435897940238?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-1']
     },
     {
         id: 4,
         image: Produk4,
         name: 'Daster Jumbo Bahan Rayon 7',
         job: 'Rp 60.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469444937451790?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-7']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469444937451790?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-7']
     },
     {
         id: 5,
         image: Produk5,
         name: 'Daster Standar Bahan Rayon 4',
         job: 'Rp 55.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469415721306382?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-4']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469415721306382?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-4']
     },
     {
         id: 6,
         image: Produk6,
         name: 'Daster Standar Bahan Rayon 8',
         job: 'Rp 55.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469355928553742?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-6']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469355928553742?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-6']
     },
     {
         id: 7,
         image: Produk7,
         name: 'Daster Panjang Bahan Rayon 3',
         job: 'Rp 65.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469262525008142?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-panjang-bahan-rayon-3']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469262525008142?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-panjang-bahan-rayon-3']
     },
     {
         id: 8,
         image: Produk8,
         name: 'Daster Panjang Bahan Rayon 2',
         job: 'Rp 65.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469333121698062?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-panjang-bahan-rayon-2']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469333121698062?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-panjang-bahan-rayon-2']
     },
     {
         id: 9,
         image: Produk9,
         name: 'Daster Standar Bahan Rayon 9',
         job: 'Rp 55.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469340515928334?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-9']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469340515928334?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-standar-bahan-rayon-9']
     },
     {
         id: 10,
         image: Produk10,
         name: 'Daster Jumbo Bahan Rayon 10',
         job: 'Rp 60.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469317088577806?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-10']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729469317088577806?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-jumbo-bahan-rayon-10']
     },
     {
         id: 11,
         image: Produk11,
         name: 'Midi Dress Salur Bahan Rayon Twill 11',
         job: 'Rp 80.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729480597321976078?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/midi-dress-salur-bahan-rayon-twill-11']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729480597321976078?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/midi-dress-salur-bahan-rayon-twill-11']
     },
     {
         id: 12,
         image: Produk12,
         name: 'Daster Tali Samping Bahan Rayon Twill 12',
         job: 'Rp 60.000',
-        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729480604587165966?region=ID&locale=id-ID', 'https://shopee.com/', 'https://skuymi.orderonline.id/daster-tali-samping-bahan-rayon-twill-12']
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729480604587165966?region=ID&locale=id-ID', 'https://s.lazada.co.id/s.ih3AW', 'https://skuymi.orderonline.id/daster-tali-samping-bahan-rayon-twill-12']
+    },
+    {
+        id: 13,
+        image: Produk13,
+        name: 'MIDI DRESS RAYON MIDI BUSUI MIDI DRESS KANCING MIDI DRESS ADEM GAMIS MURAH HOME DRESS 13',
+        job: 'Rp 82.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491254722267406?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/midi-dress-rayon-midi-busui-midi-dress-kancing-midi-dress-adem-gamis-murah-home-dress-i6926750999-s13123830957.html?clickTrackInfo=query%253A%253Bnid%253A6926750999%253Bsrc%253AlazadaInShopSrp%253Brn%253A3c9073ec144ef6ab39584ef7ea2db0a3%253Bregion%253Aid%253Bsku%253A6926750999_ID%253Bprice%253A82000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6926750999%253Bsku_id%253A13123830957%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.5', 'https://skuymi.orderonline.id/midi-dress-rayon-midi-busui-midi-dress-kancing-midi-dress-adem-gamis-murah-home-dress']
+    },
+    {
+        id: 14,
+        image: Produk14,
+        name: 'DASTER CAP STANDAR DASTER BUSUI KANCING DEPAN BAJU TIDUR DASTER 14',
+        job: 'Rp 50.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491271354583310?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/daster-cap-standar-daster-busui-kancing-depan-baju-tidur-daster-i6926118857-s13123076584.html?clickTrackInfo=query%253A%253Bnid%253A6926118857%253Bsrc%253AlazadaInShopSrp%253Brn%253A07dc766db2b85a13f6d82bdd49116cd4%253Bregion%253Aid%253Bsku%253A6926118857_ID%253Bprice%253A50000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6926118857%253Bsku_id%253A13123076584%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.11', 'https://skuymi.orderonline.id/daster-cap-standar-daster-busui-kancing-depan-baju-tidur-daster']
+    },
+    {
+        id: 15,
+        image: Produk15,
+        name: 'DASTER CAP SANTUNG RAYON DASTER BUSUI DASTER LARIS BEST SELLER DASTER STANDAR 15',
+        job: 'Rp 52.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491361560365326?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/daster-cap-santung-rayon-daster-busui-daster-laris-best-seller-daster-standar-i6926724386-s13123666589.html?clickTrackInfo=query%253A%253Bnid%253A6926724386%253Bsrc%253AlazadaInShopSrp%253Brn%253A07dc766db2b85a13f6d82bdd49116cd4%253Bregion%253Aid%253Bsku%253A6926724386_ID%253Bprice%253A52000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6926724386%253Bsku_id%253A13123666589%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.18', 'https://skuymi.orderonline.id/daster-cap-santung-rayon-daster-busui-daster-laris-best-seller-daster-standar']
+    },
+    {
+        id: 16,
+        image: Produk16,
+        name: 'DASTER KIMONO DASTER RAYON TALI SAMPING DASTER BUSUI DASTER ADEM 16',
+        job: 'Rp 65.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491368024246542?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/daster-kimono-daster-rayon-tali-samping-daster-busui-daster-adem-i6926664132-s13123588440.html?clickTrackInfo=query%253A%253Bnid%253A6926664132%253Bsrc%253AlazadaInShopSrp%253Brn%253A07dc766db2b85a13f6d82bdd49116cd4%253Bregion%253Aid%253Bsku%253A6926664132_ID%253Bprice%253A65000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6926664132%253Bsku_id%253A13123588440%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.23', 'https://skuymi.orderonline.id/daster-kimono-daster-rayon-tali-samping-daster-busui-daster-adem']
+    },
+    {
+        id: 17,
+        image: Produk17,
+        name: 'DASTER RAYON TALI SAMPING DASTER CHIBI DASTER BUSUI DASTER KEKINIAN 17',
+        job: 'Rp 65.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491370674981134?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/daster-rayon-tali-samping-daster-chibi-daster-busui-daster-kekinian-i6816464602-s12923226539.html?clickTrackInfo=query%253A%253Bnid%253A6816464602%253Bsrc%253AlazadaInShopSrp%253Brn%253A07dc766db2b85a13f6d82bdd49116cd4%253Bregion%253Aid%253Bsku%253A6816464602_ID%253Bprice%253A65000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6816464602%253Bsku_id%253A12923226539%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.29', 'https://skuymi.orderonline.id/daster-rayon-tali-samping-daster-chibi-daster-busui-daster-kekinian']
     },
 ]
+
+
 
 
 const hosting1 = require('./images/hosting1.png')

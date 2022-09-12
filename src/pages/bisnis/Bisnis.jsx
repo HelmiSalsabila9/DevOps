@@ -3,6 +3,7 @@ import HeaderImage from '../../images/header_bisnis.png'
 import {trainers} from '../../data'
 import {BsInstagram} from 'react-icons/bs'
 // import {AiFillShopping} from 'react-icons/ai'
+import {TiShoppingCart} from 'react-icons/ti'
 import {BsShop} from 'react-icons/bs'
 import {FaTiktok} from 'react-icons/fa'
 import Business from '../../components/Business'
@@ -12,7 +13,7 @@ const Bisnis = () => {
   return (
     <>
     <Header title='Produk Terbaru dan Terlaris' image={HeaderImage}>
-      Termurah Terlaris Berkualitas dan Terbaik buat kamu  
+      Terjangkau Terlaris Berkualitas dan Terbaik untuk anda  
     </Header>
     <section className='trainers'>
       <div className="container trainers__container">
@@ -22,8 +23,9 @@ const Bisnis = () => {
               [
                 {icon: <BsInstagram/>, link: socials[0]},
                 {icon: <FaTiktok/>, link: socials[1]},
-                // {icon: <AiFillShopping/>, link: socials[2]},
+                {icon: <TiShoppingCart/>, link: socials[2]},
                 {icon: <BsShop/>, link: socials[3]}
+                // {icon: <AiFillShopping/>, link: socials[4]},
               ]
             }/>
           })
