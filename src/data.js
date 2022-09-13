@@ -347,6 +347,7 @@ const Produk14 = require('./images/p14.png')
 const Produk15 = require('./images/p15.png')
 const Produk16 = require('./images/p16.png')
 const Produk17 = require('./images/p17.png')
+const Produk18 = require('./images/p18.png')
 
 
 
@@ -470,6 +471,13 @@ export const trainers = [
         name: 'DASTER RAYON TALI SAMPING DASTER CHIBI DASTER BUSUI DASTER KEKINIAN 17',
         job: 'Rp 65.000',
         socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729491370674981134?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/daster-rayon-tali-samping-daster-chibi-daster-busui-daster-kekinian-i6816464602-s12923226539.html?clickTrackInfo=query%253A%253Bnid%253A6816464602%253Bsrc%253AlazadaInShopSrp%253Brn%253A07dc766db2b85a13f6d82bdd49116cd4%253Bregion%253Aid%253Bsku%253A6816464602_ID%253Bprice%253A65000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6816464602%253Bsku_id%253A12923226539%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.29', 'https://skuymi.orderonline.id/daster-rayon-tali-samping-daster-chibi-daster-busui-daster-kekinian']
+    },
+    {
+        id: 18,
+        image: Produk18,
+        name: 'SETELAN RAYON KOMBINASI SETELAN JUMBO SETELAN KANCING 18',
+        job: 'Rp 85.000',
+        socials: ['https://www.instagram.com/dasterlaris.19/', 'https://shop.tiktok.com/view/product/1729492693096761614?region=ID&locale=id-ID', 'https://www.lazada.co.id/products/setelan-rayon-kombinasi-setelan-jumbo-setelan-kancing-i6931928688-s13131598704.html?clickTrackInfo=query%253A%253Bnid%253A6931928688%253Bsrc%253AlazadaInShopSrp%253Brn%253A5a717d856929eaff245d2d8240188d06%253Bregion%253Aid%253Bsku%253A6931928688_ID%253Bprice%253A85000.00%253Bclient%253Adesktop%253Bsupplier_id%253A400596213198%253Basc_category_id%253A15838%253Bitem_id%253A6931928688%253Bsku_id%253A13131598704%253Bshop_id%253A2034664&mp=1&spm=a2o4j.seller.list.6', 'https://skuymi.orderonline.id/setelan-rayon-kombinasi-setelan-jumbo-setelan-kancing']
     },
 ]
 
