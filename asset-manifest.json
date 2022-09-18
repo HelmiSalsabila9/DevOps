@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a43feec.css",
-    "main.js": "/static/js/main.236270ba.js",
+    "main.css": "/static/css/main.c00c85c8.css",
+    "main.js": "/static/js/main.32a53072.js",
     "static/media/header_hosting.png": "/static/media/header_hosting.c2963b872e47e6aa984e.png",
     "static/media/p18.png": "/static/media/p18.0d00fb1ac8c1f18afa67.png",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
@@ -19,6 +19,7 @@
     "static/media/p17.png": "/static/media/p17.5aff37aac3a12c3b58fe.png",
     "static/media/p12.png": "/static/media/p12.a9d5e731b825985d9e55.png",
     "static/media/about2.png": "/static/media/about2.d9535cd4fb94c2bb7248.png",
+    "static/media/header_inves.png": "/static/media/header_inves.01645ab8daf0436b0204.png",
     "static/media/p16.png": "/static/media/p16.568a1ee9829622a46175.png",
     "static/media/header_mitra.png": "/static/media/header_mitra.1b451ff405f6e006b4cc.png",
     "static/media/p15.png": "/static/media/p15.4afaab0f228f00d6de7a.png",
@@ -26,18 +27,22 @@
     "static/media/p14.png": "/static/media/p14.0ea8c77a8fc3e8dc164c.png",
     "static/media/header_kontak.png": "/static/media/header_kontak.7b6c0913bc48bbec6a60.png",
     "static/media/karir13.png": "/static/media/karir13.70dee9d5bf723836646d.png",
+    "static/media/inves4.png": "/static/media/inves4.65af83faf48697ff8639.png",
     "static/media/hosting2.png": "/static/media/hosting2.1877844957c8b6e7e25c.png",
     "static/media/p9.png": "/static/media/p9.52ffc57d724080659803.png",
+    "static/media/inves3.png": "/static/media/inves3.6900a906313f20a9d3e4.png",
     "static/media/testi2.jpeg": "/static/media/testi2.667eb66fcec7cabb8e1a.jpeg",
     "static/media/hosting4.png": "/static/media/hosting4.3e5607d8c56f30d444d5.png",
     "static/media/aing.png": "/static/media/aing.652377f3b1ba5dea263d.png",
     "static/media/hosting6.png": "/static/media/hosting6.2fedcdefc70ca09cb85d.png",
     "static/media/karir5.png": "/static/media/karir5.b81f93b61d84510abab6.png",
+    "static/media/inves2.png": "/static/media/inves2.c5f78d0d47e97a6517ef.png",
     "static/media/header_sertifikat.png": "/static/media/header_sertifikat.cc7847a42d5e7a940e74.png",
     "static/media/serti4.png": "/static/media/serti4.32eac0167aa6ef6f1d8b.png",
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
     "static/media/karir8.png": "/static/media/karir8.de2470989f100d7e4c2a.png",
     "static/media/karir3.png": "/static/media/karir3.0f8c9c528e0b4fb6d8b0.png",
+    "static/media/inves1.png": "/static/media/inves1.92b2666a299e79f389a5.png",
     "static/media/hosting1.png": "/static/media/hosting1.4d85fc17d9d21d1660b7.png",
     "static/media/karir7.png": "/static/media/karir7.ee699a6055a76142ecc7.png",
     "static/media/karir2.png": "/static/media/karir2.434ede77a7288bf021a1.png",
@@ -55,6 +60,7 @@
     "static/media/serti7.png": "/static/media/serti7.9babd92db4de960ec396.png",
     "static/media/karir12.png": "/static/media/karir12.af4a36bd40409766f65b.png",
     "static/media/serti8.png": "/static/media/serti8.81a52223251cc23e89d7.png",
+    "static/media/serti18.png": "/static/media/serti18.23cb4ce743509f84501b.png",
     "static/media/serti15.png": "/static/media/serti15.c66bc71e71b447a96471.png",
     "static/media/serti10.png": "/static/media/serti10.a55fc94a7bef3d27d156.png",
     "static/media/serti14.png": "/static/media/serti14.204794248c43f1680f2b.png",
@@ -69,6 +75,7 @@
     "static/media/karir6.png": "/static/media/karir6.7ce7c57bd9a99ad27aa1.png",
     "static/media/about4.png": "/static/media/about4.ad94087e2f800cbcbc61.png",
     "static/media/header_bisnis.png": "/static/media/header_bisnis.e373a72094f4eb81fca6.png",
+    "static/media/inves5.png": "/static/media/inves5.f980ef9c0d923a9a8712.png",
     "static/media/testi6.png": "/static/media/testi6.b412c6552ff45d94a2dd.png",
     "static/media/testi1.png": "/static/media/testi1.394a34b025db1adafd61.png",
     "static/media/logoku.png": "/static/media/logoku.173ccd1f30d4309a1240.png",
@@ -78,11 +85,11 @@
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
     "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
     "index.html": "/index.html",
-    "main.2a43feec.css.map": "/static/css/main.2a43feec.css.map",
-    "main.236270ba.js.map": "/static/js/main.236270ba.js.map"
+    "main.c00c85c8.css.map": "/static/css/main.c00c85c8.css.map",
+    "main.32a53072.js.map": "/static/js/main.32a53072.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a43feec.css",
-    "static/js/main.236270ba.js"
+    "static/css/main.c00c85c8.css",
+    "static/js/main.32a53072.js"
   ]
 }
