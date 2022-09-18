@@ -7,6 +7,7 @@ import Mitra from './pages/mitra/Mitra'
 import Bisnis from './pages/bisnis/Bisnis'
 import Sertifikat from './pages/sertifikat/Sertifikat'
 import Hostings from './pages/hostings/Hostings'
+import Investasi from './pages/investasi/Investasi'
 import NotFound from './pages/notFound/NotFound'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -25,6 +26,7 @@ const App = () => {
                 <Route path='contact' element={<Contact/>} />
                 <Route path='sertifikat' element={<Sertifikat/>} />
                 <Route path='hostings' element={<Hostings/>} />
+                <Route path='investasi' element={<Investasi/>} />
                 <Route path='*' element={<NotFound/>} />
             </Routes>
             <Footer/>

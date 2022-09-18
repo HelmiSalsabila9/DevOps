@@ -15,6 +15,10 @@ export const links = [
         name: "Hosting",
         path: '/hostings'
     },
+    {
+        name: "Investasi",
+        path: '/investasi'
+    },
     // {
     //     name: "Sertifikasi",
     //     path: '/sertifikat'
@@ -536,5 +540,53 @@ export const hosting = [
         title: 'Qwords',
         info: 'Qwords adalah perusahaan teknologi yang menyediakan manajemen Web Hosting, solusi Cloud & Data Center, Nama Domain, dan layanan digital lainnya. Qwords memiliki pengalaman lebih dari 16 tahun dengan membantu para pebisnis dan profesional untuk memaksimalkan internet dengan menyediakan layanan web hosting.',
         path: 'https://portal.qwords.com/aff.php?aff=5332'
+    },
+]
+
+
+
+const inves1 = require('./images/inves1.png')
+const inves2 = require('./images/inves2.png')
+const inves3 = require('./images/inves3.png')
+const inves4 = require('./images/inves4.png')
+const inves5 = require('./images/inves5.png')
+
+
+
+export const inves = [
+    {
+        id: 1,
+        image: inves1,
+        title: 'Gotrade',
+        info: 'Unduh Gotrade untuk berinvestasi mulai dari $1 di saham AS mana pun di platform bebas komisi yang mudah digunakan. Dapatkan $2 dalam saham gratis menggunakan tautan ini:',
+        path: 'https://heygotrade.com/referral?code=082865'
+    },
+    {
+        id: 2,
+        image: inves2,
+        title: 'Binance',
+        info: 'Saat ini, Binance adalah ekosistem blockchain terkemuka di dunia, dengan rangkaian produk yang mencakup pertukaran aset digital terbesar. Misi kami adalah menjadi penyedia layanan infrastruktur di crypto. Platform kami dipercaya oleh jutaan orang di seluruh dunia, dan menampilkan portofolio penawaran produk keuangan yang tak tertandingi.',
+        path: 'https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00TF4QEDRK'
+    },
+    {
+        id: 3,
+        image: inves3,
+        title: 'Ajaib',
+        info: 'Hai, aku baru beli saham pertamaku di Ajaib. Coba sendiri dan miliki perusahaan seperti BCA, Telkomsel dan Bank Jago. Kalau kamu daftar pakai kode Ajaib helm069, kita berdua bisa otomatis dapat hadiah saham hingga Rp50 juta setelah kamu beli saham pertamamu.',
+        path: 'https://referral.ajaib.co.id/dtgY'
+    },
+    {
+        id: 4,
+        image: inves4,
+        title: 'Tokocrypto',
+        info: 'Aset dan mata uang digital, yang didukung oleh Teknologi Blockchain akan membawa era efisiensi, transparansi, dan peluang yang lebih setara dengan menciptakan ekosistem keuangan terbuka. Menjadi pintu gerbang yang aman antara sistem keuangan lama dan ekosistem keuangan terbuka yang baru.',
+        path: 'https://www.tokocrypto.com/account/signup?ref=A1KCRM6Z'
+    },
+    {
+        id: 5,
+        image: inves5,
+        title: 'Bibit',
+        info: 'Bikin uang kamu bekerja lebih keras demi masa depan kamu. Dapatkan cashback reksa dana dari Bibit senilai Rp 25,000. Masukkan kode referral ini saat pendaftaran: skuymi.',
+        path: 'http://bit.ly/bibitreferral1'
     },
 ]

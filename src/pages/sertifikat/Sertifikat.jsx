@@ -4,7 +4,7 @@ import './sertifikat.css'
 
 const Sertifikat = () => {
 
-  const sertiLength = 17;
+  const sertiLength = 18;
   const images = []
 
   for (let i = 1; i <= sertiLength; i++) {

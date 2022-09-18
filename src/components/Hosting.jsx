@@ -11,7 +11,7 @@ const Hosting = ({image, title, info, path}) => {
         <div className="hosting__socials">
             {
                 path.map(({link}) => {
-                    return <a href={link} rel='noreferrer noopener' target="_blank">Hosting sekarang</a>
+                    return <a href={link} rel='noreferrer noopener' target="_blank">Hosting Sekarang</a>
                 })
             }
         </div>

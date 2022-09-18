@@ -1,0 +1,75 @@
+.investasi {
+    margin-top: 5rem;
+}
+
+.investasi__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4rem;
+}
+
+.card.inves {
+    padding: 1rem;
+}
+
+.inves__img {
+    border-radius: 0 2rem;
+    overflow: hidden;
+}
+
+.inves h3 {
+    margin-top: 0.5rem;
+    text-transform: uppercase;
+}
+
+.inves p {
+    margin-top: 0.5rem;
+}
+
+.inves__socials {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.inves__socials a {
+    font-size: 1rem;
+    background: var(--color-gray-600);
+    padding: 0.8rem;
+    border-radius: 0 1rem;
+    transition: var(--transition);
+}
+
+.inves__socials a:hover {
+    background: var(--color-secondary);
+}
+
+.inves:hover a {
+    background: var(--color-gray-500);
+}
+.inves a:hover {
+    background: var(--color-secondary);
+}
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 1024px) {
+    .investasi__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .investasi__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .card.inves {
+        width: 90%;
+        margin-inline: auto;
+    }
+}

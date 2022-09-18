@@ -7,6 +7,7 @@ import {TiShoppingCart} from 'react-icons/ti'
 import {BsShop} from 'react-icons/bs'
 import {FaTiktok} from 'react-icons/fa'
 import Business from '../../components/Business'
+import Testimonials from '../../components/Testimonials'
 import './bisnis.css'
 
 const Bisnis = () => {
@@ -32,6 +33,7 @@ const Bisnis = () => {
         }
       </div>
     </section>
+    <Testimonials/>
     </>
   )
 }
