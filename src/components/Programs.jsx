@@ -3,14 +3,14 @@ import SectionHead from './SectionHead'
 import {programs} from '../data'
 import Card from '../UI/Card'
 // import {Link} from 'react-router-dom'
-import {AiFillCaretRight} from 'react-icons/ai'
+import {MdDownload} from 'react-icons/md'
 
 const Programs = () => {
   return (
     <section className='programs'>
         <div className="container programs__container">
             <SectionHead icon={<FaCrown/>} title="Projek"/>
-            <p>Projek adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus dan jangan lupa untuk kasih bintang agar tidak error codenya boleh di follow juga ya</p>
+            <p>Projek ini adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus <br/> Suka dengan projeknya? Kamu bisa memberikan dukungan dengan <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener"><b>Berdonasi</b></a>.<br/>Terimakasih atas dukungan Anda!</p>
             <div className="programs__wrapper">
                 {
                     programs.map(({id, icon, title, info, path}) => {
@@ -20,7 +20,7 @@ const Programs = () => {
                                 <h4>{title}</h4>
                                 <small>{info}</small>
                                 {/* <Link to={path} className="btn sm">Learn more <AiFillCaretRight/></Link> */}
-                                <a href={path}  className="btn sm" target='_blank' rel='noreferrer noopener'>Lihat detail <AiFillCaretRight/></a>
+                                <a href={path} className="btn sm" target='_blank' rel='noreferrer noopener'>Unduh <MdDownload/></a>
                             </Card>
                         )
                     })

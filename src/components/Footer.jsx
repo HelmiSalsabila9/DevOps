@@ -33,21 +33,23 @@ const Footer = () => {
             <article>
                 <h4>Jelajahi Sekarang</h4>
                 <Link to="/bisnis">Produk</Link>
+                <Link to="/hostings">Hosting</Link>
+                <Link to="/investasi">Investasi</Link>
                 <Link to="/mitra">Kemitraan</Link>
                 <Link to="/karir">Karir</Link>
-                <Link to="/about">Tentang Kami</Link>
+                
             </article>
             <article>
                 <h4>Wawasan</h4>
                 <Link to="/maintenance">Blog</Link>
-                <Link to="/hostings">Hosting</Link>
                 <Link to="/sertifikat">Sertifikasi</Link>
             </article>
             <article>
                 <h4>Berhubungan</h4>
                 <Link to="/contact">Kontak</Link>
-                <a href="https://ageneskrimcampinaarjawinangun.business.site/" target='_blank' rel="noreferrer noopener">Agen Es Krim</a>
+                <a href="https://ageneskrimcampinaarjawinangun.business.site/" target='_blank' rel="noreferrer noopener">Agen</a>
                 <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener">Donasi</a>
+                <Link to="/about">Tentang Saya</Link>
             </article>
         </div>
         <div className="footer__copyright">

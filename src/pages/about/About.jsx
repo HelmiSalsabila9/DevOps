@@ -9,7 +9,7 @@ import './about.css'
 const About = () => {
   return (
     <>
-      <Header title="Tentang Kami" image={HeaderImage}>
+      <Header title="Tentang Saya" image={HeaderImage}>
         www.helmisalsabila.com
       </Header>
 

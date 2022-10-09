@@ -6,8 +6,10 @@ const NotFound = () => {
   return (
       <section>
         <div className="container notfound__container">
-          <h3>Halaman sedang</h3>
+          <h4>~~~ COMINGSOON ~~~</h4>
+          <h3>HALAMAN SEDANG</h3>
           <h2>MAINTENANCE</h2>
+          <small>DITUNGGU SEBENTAR LAGI YAA</small>
           <p><BsEmojiSmile/></p>
           <Link to='/' className='btn'>Kembali</Link>
         </div>

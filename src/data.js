@@ -8,20 +8,36 @@ export const links = [
         path: '/'
     },
     {
-        name: "Produk",
-        path: '/bisnis'
+        name: "Blog",
+        path: '/maintenance'
     },
     {
-        name: "Hosting",
-        path: '/hostings'
+        name: "Layanan",
+        path: '/maintenance'
     },
     {
-        name: "Investasi",
-        path: '/investasi'
+        name: "Sertifikasi",
+        path: '/sertifikat'
+    },
+    {
+        name: "Tentang Saya",
+        path: '/about'
+    },
+    {
+        name: "Kontak",
+        path: '/contact'
     },
     // {
-    //     name: "Sertifikasi",
-    //     path: '/sertifikat'
+    //     name: "Produk",
+    //     path: '/bisnis'
+    // },
+    // {
+    //     name: "Hosting",
+    //     path: '/hostings'
+    // },
+    // {
+    //     name: "Investasi",
+    //     path: '/investasi'
     // },
     // {
     //     name: "Kemitraan",
@@ -31,14 +47,7 @@ export const links = [
     //     name: "Karir",
     //     path: '/karir'
     // },
-    // {
-    //     name: "Tentang",
-    //     path: '/about'
-    // },
-    // {
-    //     name: "Kontak",
-    //     path: '/contact'
-    // },
+    
 ]
 
 
@@ -53,7 +62,7 @@ export const programs = [
         icon: <SiOpenaigym/>,
         title: "Penerapan Metode Klasifikasi Naive Bayes Dalam Memprediksi Siswa Unggulan",
         info: "Tugas besar dari matakuliah Data Mining membuat aplikasi dan menerapkan metode algoritma yang sudah ditentukan serta membuat jurnalnya.",
-        path: "https://github.com/HelmiSalsabila9/Naive_Bayes"
+        path: "https://github.com/HelmiSalsabila9/Naive_Bayes/archive/refs/heads/master.zip"
     },
     {
         id: 2,
@@ -67,7 +76,7 @@ export const programs = [
         icon: <SiOpenaigym/>,
         title: "Klasifikasi Gambar Rock Paper Scissors",
         info: "Mengikuti course online mengenai tema Machine Learning yang dimana diberi studi kasus tersebut, ketika lulus saya dapat sertifikat",
-        path: "https://github.com/HelmiSalsabila9/Klasifikasi_Gambar_RockPaperScissors"
+        path: "https://github.com/HelmiSalsabila9/Klasifikasi_Gambar_RockPaperScissors/archive/refs/heads/master.zip"
     },
     {
         id: 4,
@@ -88,42 +97,42 @@ export const programs = [
         icon: <SiOpenaigym/>,
         title: "Membuat Aplikasi Android",
         info: "Tugas besar dari matakuliah pemrograman 4 mengenai Java dengan beberapa ketentuan untuk diterapkan dalam aplikasi.",
-        path: "https://github.com/HelmiSalsabila9/MiApp"
+        path: "https://github.com/HelmiSalsabila9/MiApp/archive/refs/heads/master.zip"
     },
     {
         id: 7,
         icon: <SiOpenaigym/>,
         title: "Membangun Website Portfolio Dengan Tailwind",
         info: "Bertujuan untuk belajar membuat website portfolio menggunakan Css Tailwind",
-        path: "https://github.com/HelmiSalsabila9/Tailwind-Portfolio"
+        path: "https://github.com/HelmiSalsabila9/Tailwind-Portfolio/archive/refs/heads/master.zip"
     },
     {
         id: 8,
         icon: <SiOpenaigym/>,
         title: "Membuat Aplikasi Dengan framework Django",
         info: "Untuk memenuhi tugas besar dari matakuliah Keamanan Sistem Informasi dengan membuat Django Password dan Django Register di lengkapi dengan beberapa validasi dan menampilkan nama user ketika berhasil login",
-        path: "https://github.com/HelmiSalsabila9/DjangoPass"
+        path: "https://github.com/HelmiSalsabila9/DjangoPass/archive/refs/heads/master.zip"
     },
     {
         id: 9,
         icon: <SiOpenaigym/>,
         title: "Membuat Template Yudisium Politeknik Pos Indonesia",
         info: "Ini adalah projek desain yang saya buat untuk acara yudisium secara daring yaknik jurusan Teknik Informatika Politeknik Pos Indonesia T.A 2020-2021",
-        path: "https://github.com/HelmiSalsabila9/TEMPLATES_YUSIDUM"
+        path: "https://github.com/HelmiSalsabila9/TEMPLATES_YUSIDUM/archive/refs/heads/master.zip"
     },
     {
         id: 10,
         icon: <SiOpenaigym/>,
         title: "Tugas Besar Pemrograman 2",
         info: "Membuat aplikasi pemesanan makanan dengan menggunakan ASP.NET Core dan menerapkan MVC",
-        path: "https://github.com/HelmiSalsabila9/TB_Pemrograman2"
+        path: "https://github.com/HelmiSalsabila9/TB_Pemrograman2/archive/refs/heads/main.zip"
     },
     {
         id: 11,
         icon: <SiOpenaigym/>,
         title: "Tugas Besar Pemrograman 3",
         info: "Membuat aplikasi dan menerapkan Web API",
-        path: "https://github.com/HelmiSalsabila9/Tugas_Pemrograman3_Web_API"
+        path: "https://github.com/HelmiSalsabila9/Tugas_Pemrograman3_Web_API/archive/refs/heads/master.zip"
     },
 ]
 
