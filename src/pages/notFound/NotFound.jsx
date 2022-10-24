@@ -7,8 +7,8 @@ const NotFound = () => {
       <section>
         <div className="container notfound__container">
           <h4>~~~ COMINGSOON ~~~</h4>
-          <h3>HALAMAN SEDANG</h3>
-          <h2>MAINTENANCE</h2>
+          <h3>HALAMAN SEDANG DALAM</h3>
+          <h2>PENGEMBANGAN</h2>
           <small>DITUNGGU SEBENTAR LAGI YAA</small>
           <p><BsEmojiSmile/></p>
           <Link to='/' className='btn'>Kembali</Link>

@@ -32,11 +32,11 @@ const Footer = () => {
             </article>
             <article>
                 <h4>Jelajahi Sekarang</h4>
+                <Link to="/karir">Karir</Link>
                 <Link to="/bisnis">Produk</Link>
                 <Link to="/hostings">Hosting</Link>
                 <Link to="/investasi">Investasi</Link>
                 <Link to="/mitra">Kemitraan</Link>
-                <Link to="/karir">Karir</Link>
                 
             </article>
             <article>
@@ -46,9 +46,10 @@ const Footer = () => {
             </article>
             <article>
                 <h4>Berhubungan</h4>
-                <Link to="/contact">Kontak</Link>
                 <a href="https://ageneskrimcampinaarjawinangun.business.site/" target='_blank' rel="noreferrer noopener">Agen</a>
-                <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener">Donasi</a>
+                <Link to="/contact">Kontak</Link>
+                <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener">Saweria</a>
+                <a href="https://trakteer.id/helmisalsabila" target='_blank' rel="noreferrer noopener">Trakteer</a>
                 <Link to="/about">Tentang Saya</Link>
             </article>
         </div>

@@ -20,13 +20,14 @@ export const links = [
         path: '/sertifikat'
     },
     {
-        name: "Tentang Saya",
-        path: '/about'
-    },
-    {
         name: "Kontak",
         path: '/contact'
     },
+    {
+        name: "Tentang Saya",
+        path: '/about'
+    },
+    
     // {
     //     name: "Produk",
     //     path: '/bisnis'
@@ -133,6 +134,13 @@ export const programs = [
         title: "Tugas Besar Pemrograman 3",
         info: "Membuat aplikasi dan menerapkan Web API",
         path: "https://github.com/HelmiSalsabila9/Tugas_Pemrograman3_Web_API/archive/refs/heads/master.zip"
+    },
+    {
+        id: 12,
+        icon: <SiOpenaigym/>,
+        title: "Submission Belajar Dasar Pemrograman Web",
+        info: "Submission yang merupakan hasil akhir dari kelas Belajar Dasar Pemrograman Web yang diselenggarakan oleh Dicoding.",
+        path: "https://github.com/HelmiSalsabila9/Submission_Belajar_Dasar_Pemrograman_Web/archive/refs/heads/master.zip"
     },
 ]
 

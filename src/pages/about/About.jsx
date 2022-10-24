@@ -54,9 +54,9 @@ const About = () => {
       <section className='about__vision'>
         <div className="container about__vision-container">
           <div className="about__section-content">
-            <h1>Open Donasi</h1>
-            <p>Donasi bisa dilakukan dengan menscan QRIS pada gambar disamping kanan arahkan kursor ke gambar agar gambar bisa tegak lurus saat discan, atau bisa juga menggunakan cara yang dibawah ini.</p>
-            <h3><p><a href="https://saweria.co/helmisalsabila" target="_blank" rel="noreferrer noopener">Donasi boleh disini.</a></p></h3>
+            <h1>Dukungan</h1>
+            <p>Dukungan bisa dilakukan dengan menscan QRIS pada gambar disamping kanan arahkan kursor (klik) ke gambar agar gambar bisa tegak lurus saat discan, atau bisa juga menggunakan cara yang dibawah ini.</p>
+            <p><a href="https://saweria.co/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Saweria</a> atau <a href="https://trakteer.id/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Trakteer</a></p>
             <p>Saya ucapkan terimakasih banyak semoga Allah swt membalas kebaikan anda.</p>
             <p>Amin.. </p>
           </div>

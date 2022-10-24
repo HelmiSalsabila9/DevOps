@@ -10,7 +10,7 @@ const Programs = () => {
     <section className='programs'>
         <div className="container programs__container">
             <SectionHead icon={<FaCrown/>} title="Projek"/>
-            <p>Projek ini adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus <br/> Suka dengan projeknya? Kamu bisa memberikan dukungan dengan <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener"><b>Berdonasi</b></a>.<br/>Terimakasih atas dukungan Anda!</p>
+            <p>Projek ini adalah kegiatan yang saya lakukan untuk menyelesaikan studi kasus. <br/> Suka dengan projeknya? Kamu bisa memberikan dukungan dengan berdonasi <a href="https://saweria.co/helmisalsabila" target='_blank' rel="noreferrer noopener" className='btn sm'><b>Saweria</b></a> atau <a href="hhttps://trakteer.id/helmisalsabila" target='_blank' rel="noreferrer noopener" className='btn sm'><b>Trakteer</b></a><br/>Terimakasih atas dukungan Anda!</p>
             <div className="programs__wrapper">
                 {
                     programs.map(({id, icon, title, info, path}) => {
