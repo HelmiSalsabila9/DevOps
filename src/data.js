@@ -24,7 +24,7 @@ export const links = [
         path: '/contact'
     },
     {
-        name: "Tentang Saya",
+        name: "Tentang",
         path: '/about'
     },
     
@@ -50,8 +50,6 @@ export const links = [
     // },
     
 ]
-
-
 
 
 
@@ -144,9 +142,17 @@ export const programs = [
     },
 ]
 
+const part1 = require('./images/draw1.png')
 
 
-
+export const drawing =[
+    {
+        id: 1,
+        image: part1,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part1/main.py",
+        
+    },
+]
 
 
 

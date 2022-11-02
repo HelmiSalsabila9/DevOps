@@ -423,7 +423,7 @@ footer {
     }
 
     .programs__program {
-        width: 84%;
+        width: 85%;
         margin: 0 auto;
     }
 
@@ -436,7 +436,7 @@ footer {
     }
 
     .card.values__value {
-        width: 84%;
+        width: 85%;
         margin-inline: auto;
     }
 
@@ -449,7 +449,7 @@ footer {
 
     /* TESTIMONIALS */
     .testimonials {
-        width: 100%;
+        width: 85%;
     }
 
     
