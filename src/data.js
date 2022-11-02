@@ -143,6 +143,7 @@ export const programs = [
 ]
 
 const part1 = require('./images/draw1.png')
+const part2 = require('./images/draw2.png')
 
 
 export const drawing =[
@@ -150,6 +151,12 @@ export const drawing =[
         id: 1,
         image: part1,
         path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part1/main.py",
+        
+    },
+    {
+        id: 2,
+        image: part2,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part2/main.py",
         
     },
 ]
