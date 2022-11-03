@@ -142,6 +142,7 @@ export const programs = [
     },
 ]
 
+
 const part1 = require('./images/draw1.png')
 const part2 = require('./images/draw2.png')
 const part3 = require('./images/draw3.png')
@@ -150,6 +151,7 @@ const part5 = require('./images/draw5.png')
 const part6 = require('./images/draw6.png')
 const part7 = require('./images/draw7.png')
 const part8 = require('./images/draw8.png')
+const part9 = require('./images/draw9.png')
 
 
 
@@ -175,31 +177,37 @@ export const drawing =[
     {
         id: 4,
         image: part4,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part4/main.py",
         
     },
     {
         id: 5,
         image: part5,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part5/main.py",
         
     },
     {
         id: 6,
         image: part6,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part6/main.py",
         
     },
     {
         id: 7,
         image: part7,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part7/main.py",
         
     },
     {
         id: 8,
         image: part8,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part8/main.py",
+        
+    },
+    {
+        id: 9,
+        image: part9,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part9/main.py",
         
     },
 ]
