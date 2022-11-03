@@ -145,6 +145,12 @@ export const programs = [
 const part1 = require('./images/draw1.png')
 const part2 = require('./images/draw2.png')
 const part3 = require('./images/draw3.png')
+const part4 = require('./images/draw4.png')
+const part5 = require('./images/draw5.png')
+const part6 = require('./images/draw6.png')
+const part7 = require('./images/draw7.png')
+const part8 = require('./images/draw8.png')
+
 
 
 export const drawing =[
@@ -163,6 +169,36 @@ export const drawing =[
     {
         id: 3,
         image: part3,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        
+    },
+    {
+        id: 4,
+        image: part4,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        
+    },
+    {
+        id: 5,
+        image: part5,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        
+    },
+    {
+        id: 6,
+        image: part6,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        
+    },
+    {
+        id: 7,
+        image: part7,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        
+    },
+    {
+        id: 8,
+        image: part8,
         path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
         
     },
