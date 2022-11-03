@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed26f9b2.css",
-    "main.js": "/static/js/main.0d4b5f39.js",
+    "main.js": "/static/js/main.ee00471e.js",
     "static/media/header_hosting.png": "/static/media/header_hosting.c2963b872e47e6aa984e.png",
     "static/media/p18.png": "/static/media/p18.0d00fb1ac8c1f18afa67.png",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
@@ -76,13 +76,16 @@
     "static/media/serti9.png": "/static/media/serti9.89ce0f03fda614e659c1.png",
     "static/media/karir4.png": "/static/media/karir4.69ba14e53194bbebba0e.png",
     "static/media/karir9.png": "/static/media/karir9.60a6b68e93858d5b31fe.png",
+    "static/media/draw7.png": "/static/media/draw7.4db84879d1996b498ecd.png",
     "static/media/serti16.png": "/static/media/serti16.d0123e1dc4cd0c4c2681.png",
     "static/media/karir6.png": "/static/media/karir6.7ce7c57bd9a99ad27aa1.png",
     "static/media/draw1.png": "/static/media/draw1.5ceb7ce7f0d0528f23b2.png",
     "static/media/about4.png": "/static/media/about4.ad94087e2f800cbcbc61.png",
     "static/media/header_bisnis.png": "/static/media/header_bisnis.e373a72094f4eb81fca6.png",
     "static/media/inves5.png": "/static/media/inves5.f980ef9c0d923a9a8712.png",
+    "static/media/draw6.png": "/static/media/draw6.b0733944a108319e551c.png",
     "static/media/testi6.png": "/static/media/testi6.b412c6552ff45d94a2dd.png",
+    "static/media/draw4.png": "/static/media/draw4.5eb95713f345e5cf8353.png",
     "static/media/testi1.png": "/static/media/testi1.394a34b025db1adafd61.png",
     "static/media/logoku.png": "/static/media/logoku.173ccd1f30d4309a1240.png",
     "static/media/header_about.png": "/static/media/header_about.a90d0885c771a1d27b90.png",
@@ -90,12 +93,13 @@
     "static/media/testi4.png": "/static/media/testi4.c1161929def0e903c4d3.png",
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
     "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
+    "static/media/draw5.png": "/static/media/draw5.c8036b0957cfafb43e37.png",
     "index.html": "/index.html",
     "main.ed26f9b2.css.map": "/static/css/main.ed26f9b2.css.map",
-    "main.0d4b5f39.js.map": "/static/js/main.0d4b5f39.js.map"
+    "main.ee00471e.js.map": "/static/js/main.ee00471e.js.map"
   },
   "entrypoints": [
     "static/css/main.ed26f9b2.css",
-    "static/js/main.0d4b5f39.js"
+    "static/js/main.ee00471e.js"
   ]
 }
