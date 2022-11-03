@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed26f9b2.css",
-    "main.js": "/static/js/main.5b959331.js",
+    "main.js": "/static/js/main.6870a2a7.js",
     "static/media/header_hosting.png": "/static/media/header_hosting.c2963b872e47e6aa984e.png",
     "static/media/p18.png": "/static/media/p18.0d00fb1ac8c1f18afa67.png",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
@@ -42,6 +42,7 @@
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
     "static/media/karir8.png": "/static/media/karir8.de2470989f100d7e4c2a.png",
     "static/media/karir3.png": "/static/media/karir3.0f8c9c528e0b4fb6d8b0.png",
+    "static/media/draw11.png": "/static/media/draw11.991567a879a8bbf62c42.png",
     "static/media/inves1.png": "/static/media/inves1.92b2666a299e79f389a5.png",
     "static/media/hosting1.png": "/static/media/hosting1.4d85fc17d9d21d1660b7.png",
     "static/media/karir7.png": "/static/media/karir7.ee699a6055a76142ecc7.png",
@@ -63,9 +64,11 @@
     "static/media/header_karir.png": "/static/media/header_karir.8d193df93d875d70f2f2.png",
     "static/media/hosting5.png": "/static/media/hosting5.a0cb65255af990b4e544.png",
     "static/media/serti7.png": "/static/media/serti7.9babd92db4de960ec396.png",
+    "static/media/draw12.png": "/static/media/draw12.3aca71d7d113def5dee9.png",
     "static/media/karir12.png": "/static/media/karir12.af4a36bd40409766f65b.png",
     "static/media/serti8.png": "/static/media/serti8.81a52223251cc23e89d7.png",
     "static/media/draw2.png": "/static/media/draw2.64e72e11bfe5a481b6f2.png",
+    "static/media/draw10.png": "/static/media/draw10.d553b027bd0c8efdf96c.png",
     "static/media/serti18.png": "/static/media/serti18.23cb4ce743509f84501b.png",
     "static/media/serti15.png": "/static/media/serti15.c66bc71e71b447a96471.png",
     "static/media/serti10.png": "/static/media/serti10.a55fc94a7bef3d27d156.png",
@@ -97,10 +100,10 @@
     "static/media/draw5.png": "/static/media/draw5.c8036b0957cfafb43e37.png",
     "index.html": "/index.html",
     "main.ed26f9b2.css.map": "/static/css/main.ed26f9b2.css.map",
-    "main.5b959331.js.map": "/static/js/main.5b959331.js.map"
+    "main.6870a2a7.js.map": "/static/js/main.6870a2a7.js.map"
   },
   "entrypoints": [
     "static/css/main.ed26f9b2.css",
-    "static/js/main.5b959331.js"
+    "static/js/main.6870a2a7.js"
   ]
 }
