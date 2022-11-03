@@ -152,6 +152,9 @@ const part6 = require('./images/draw6.png')
 const part7 = require('./images/draw7.png')
 const part8 = require('./images/draw8.png')
 const part9 = require('./images/draw9.png')
+const part10 = require('./images/draw10.png')
+const part11 = require('./images/draw11.png')
+const part12 = require('./images/draw12.png')
 
 
 
@@ -208,6 +211,24 @@ export const drawing =[
         id: 9,
         image: part9,
         path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part9/main.py",
+        
+    },
+    {
+        id: 10,
+        image: part10,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part10/main.py",
+        
+    },
+    {
+        id: 11,
+        image: part11,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part11/main.py",
+        
+    },
+    {
+        id: 12,
+        image: part12,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part12/main.py",
         
     },
 ]
