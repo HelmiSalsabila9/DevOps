@@ -21,10 +21,11 @@ const Contact = () => {
             <a href="mailto:helmisalsabila70@gmail.com" target='_blank' rel='noreferrer noopener' alt="Email"><AiOutlineMail/></a>
             <a href="https://wa.me/+6285900386218" target='_blank' rel='noreferrer noopener' alt="Whatsapp"><BsWhatsapp/></a>
             <a href="https://instagram.com/hels.ae" target='_blank' rel='noreferrer noopener' alt="Instagram"><BsInstagram/></a>
+          </div>
+          <div className="contact__wrapper">
             <a href="https://www.tiktok.com/@hels.id" target='_blank' rel='noreferrer noopener' alt="Tiktok"><FaTiktok/></a>
             <a href="https://lingkedin.com/in/helmisalsabila9/" target='_blank' rel='noreferrer noopener' alt="LinkedIn"><BsLinkedin/></a>
             <a href="https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA" target='_blank' rel='noreferrer noopener' alt="Youtube"><AiFillYoutube/></a>
-
           </div>
         </div>
       </section>

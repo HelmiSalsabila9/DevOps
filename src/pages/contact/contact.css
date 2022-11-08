@@ -16,6 +16,7 @@
     transition: var(--transition);
     padding: 1.5rem;
     border-radius: 0 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .contact__wrapper a:hover {
@@ -34,5 +35,6 @@
         padding: 1rem;
         font-size: 1.2rem;
         border-radius: 0 1.5rem 0 1.5rem;
+        margin-bottom: 1.5rem;
     }
 }
