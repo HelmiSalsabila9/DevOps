@@ -158,6 +158,11 @@ const part12 = require('./images/draw12.png')
 const part13 = require('./images/draw13.png')
 const part14 = require('./images/draw14.png')
 const part15 = require('./images/draw15.png')
+const part16 = require('./images/draw16.png')
+const part17 = require('./images/draw17.png')
+const part18 = require('./images/draw18.png')
+const part19 = require('./images/draw19.png')
+const part20 = require('./images/draw20.png')
 
 
 
@@ -165,91 +170,121 @@ export const drawing =[
     {
         id: 1,
         image: part1,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part1/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part1/main.py",
         
     },
     {
         id: 2,
         image: part2,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part2/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part2/main.py",
         
     },
     {
         id: 3,
         image: part3,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part3/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part3/main.py",
         
     },
     {
         id: 4,
         image: part4,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part4/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part4/main.py",
         
     },
     {
         id: 5,
         image: part5,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part5/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part5/main.py",
         
     },
     {
         id: 6,
         image: part6,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part6/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part6/main.py",
         
     },
     {
         id: 7,
         image: part7,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part7/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part7/main.py",
         
     },
     {
         id: 8,
         image: part8,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part8/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part8/main.py",
         
     },
     {
         id: 9,
         image: part9,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part9/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part9/main.py",
         
     },
     {
         id: 10,
         image: part10,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part10/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part10/main.py",
         
     },
     {
         id: 11,
         image: part11,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part11/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part11/main.py",
         
     },
     {
         id: 12,
         image: part12,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part12/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part12/main.py",
         
     },
     {
         id: 13,
         image: part13,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part13/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part13/main.py",
         
     },
     {
         id: 14,
         image: part14,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part14/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part14/main.py",
         
     },
     {
         id: 15,
         image: part15,
-        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/part15/main.py",
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part15/main.py",
+        
+    },
+    {
+        id: 16,
+        image: part16,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part16/main.py",
+        
+    },
+    {
+        id: 17,
+        image: part17,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part17/main.py",
+        
+    },
+    {
+        id: 18,
+        image: part18,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part18/main.py",
+        
+    },
+    {
+        id: 19,
+        image: part19,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part19/main.py",
+        
+    },
+    {
+        id: 20,
+        image: part20,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part20/main.py",
         
     },
 ]
