@@ -11,10 +11,10 @@ export const links = [
         name: "Blog",
         path: '/maintenance'
     },
-    {
-        name: "Layanan",
-        path: '/maintenance'
-    },
+    // {
+    //     name: "Layanan",
+    //     path: '/maintenance'
+    // },
     {
         name: "Sertifikasi",
         path: '/sertifikat'
@@ -163,6 +163,11 @@ const part17 = require('./images/draw17.png')
 const part18 = require('./images/draw18.png')
 const part19 = require('./images/draw19.png')
 const part20 = require('./images/draw20.png')
+const part21 = require('./images/draw21.png')
+const part22 = require('./images/draw22.png')
+const part23 = require('./images/draw23.png')
+const part24 = require('./images/draw24.png')
+const part25 = require('./images/draw25.png')
 
 
 
@@ -285,6 +290,36 @@ export const drawing =[
         id: 20,
         image: part20,
         path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part20/main.py",
+        
+    },
+    {
+        id: 21,
+        image: part21,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part21/main.py",
+        
+    },
+    {
+        id: 22,
+        image: part22,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part25/main.py",
+        
+    },
+    {
+        id: 23,
+        image: part23,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part26/main.py",
+        
+    },
+    {
+        id: 24,
+        image: part24,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part28/main.py",
+        
+    },
+    {
+        id: 25,
+        image: part25,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part29/main.py",
         
     },
 ]
