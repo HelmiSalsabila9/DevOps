@@ -168,6 +168,11 @@ const part22 = require('./images/draw22.png')
 const part23 = require('./images/draw23.png')
 const part24 = require('./images/draw24.png')
 const part25 = require('./images/draw25.png')
+const part26 = require('./images/draw26.png')
+const part27 = require('./images/draw27.png')
+const part28 = require('./images/draw28.png')
+const part29 = require('./images/draw29.png')
+const part30 = require('./images/draw30.png')
 
 
 
@@ -320,6 +325,36 @@ export const drawing =[
         id: 25,
         image: part25,
         path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part29/main.py",
+        
+    },
+    {
+        id: 26,
+        image: part26,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part31/main.py",
+        
+    },
+    {
+        id: 27,
+        image: part27,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part32/main.py",
+        
+    },
+    {
+        id: 28,
+        image: part28,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part33/main.py",
+        
+    },
+    {
+        id: 29,
+        image: part29,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part34/main.py",
+        
+    },
+    {
+        id: 30,
+        image: part30,
+        path: "https://github.com/HelmiSalsabila9/Drawing_in_Python/blob/master/DRAW/part35/main.py",
         
     },
 ]

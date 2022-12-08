@@ -14,8 +14,8 @@ const Sertifikat = () => {
 
   return (
     <>
-      <Header title='Lisensi dan Sertifikasi' image={HeaderImage}>
-        Kursus yang saya ikuti dan penyelesaian dari studi kasus untuk mendapatkan sertifikat.
+      <Header title='Lisensi dan Sertifikat' image={HeaderImage}>
+        Kegiatan atau kursus yang saya ikuti dan penyelesaian dari studi kasus untuk mendapatkan sertifikat.
       </Header>
       <section className='gallery'>
         <div className="container gallery__container">

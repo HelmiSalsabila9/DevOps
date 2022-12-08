@@ -7,7 +7,7 @@ const FAQs = () => {
   return (
     <section className="faqs">
         <div className="container faqs__container">
-            <SectionHead icon={<FaQuestion/>} title="Pertanyaan"/>
+            <SectionHead icon={<FaQuestion/>} title="Kamu nanya?"/>
             <div className="faqs__wrapper">
                 {
                     faqs.map(({id, question, answer}) => {
