@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b34d9bad.css",
-    "main.js": "/static/js/main.543e5415.js",
+    "main.js": "/static/js/main.96381fa1.js",
     "static/media/header_hosting.png": "/static/media/header_hosting.c2963b872e47e6aa984e.png",
     "static/media/p18.png": "/static/media/p18.0d00fb1ac8c1f18afa67.png",
     "static/media/p6.png": "/static/media/p6.759588b52e424cb84f2c.png",
@@ -36,11 +36,13 @@
     "static/media/hosting4.png": "/static/media/hosting4.3e5607d8c56f30d444d5.png",
     "static/media/aing.png": "/static/media/aing.652377f3b1ba5dea263d.png",
     "static/media/hosting6.png": "/static/media/hosting6.2fedcdefc70ca09cb85d.png",
+    "static/media/draw30.png": "/static/media/draw30.90d52f122c2c2d0450b3.png",
     "static/media/karir5.png": "/static/media/karir5.b81f93b61d84510abab6.png",
     "static/media/inves2.png": "/static/media/inves2.c5f78d0d47e97a6517ef.png",
     "static/media/draw22.png": "/static/media/draw22.f1f3c74b40e156568896.png",
     "static/media/header_sertifikat.png": "/static/media/header_sertifikat.cc7847a42d5e7a940e74.png",
     "static/media/serti4.png": "/static/media/serti4.32eac0167aa6ef6f1d8b.png",
+    "static/media/draw27.png": "/static/media/draw27.bc2df66ec2124f0e264f.png",
     "static/media/karir14.png": "/static/media/karir14.d628d8a3b9d2c89f3e06.png",
     "static/media/karir8.png": "/static/media/karir8.de2470989f100d7e4c2a.png",
     "static/media/karir3.png": "/static/media/karir3.0f8c9c528e0b4fb6d8b0.png",
@@ -96,6 +98,7 @@
     "static/media/draw1.png": "/static/media/draw1.5ceb7ce7f0d0528f23b2.png",
     "static/media/about4.png": "/static/media/about4.ad94087e2f800cbcbc61.png",
     "static/media/draw13.png": "/static/media/draw13.5b548520c5f45cb543b2.png",
+    "static/media/draw28.png": "/static/media/draw28.94775cc35c17fb096954.png",
     "static/media/draw17.png": "/static/media/draw17.f1637c4c8928d3924316.png",
     "static/media/header_bisnis.png": "/static/media/header_bisnis.e373a72094f4eb81fca6.png",
     "static/media/inves5.png": "/static/media/inves5.f980ef9c0d923a9a8712.png",
@@ -108,15 +111,17 @@
     "static/media/testi5.png": "/static/media/testi5.500399a061747f7f7bce.png",
     "static/media/testi4.png": "/static/media/testi4.c1161929def0e903c4d3.png",
     "static/media/about1.png": "/static/media/about1.ea9b5242351f31288495.png",
+    "static/media/draw29.png": "/static/media/draw29.f4db9538dab8d3feb8de.png",
     "static/media/draw20.png": "/static/media/draw20.9b82317e1a277b3f4f9c.png",
     "static/media/testi3.png": "/static/media/testi3.2b395717a2d35d724ae5.png",
     "static/media/draw5.png": "/static/media/draw5.c8036b0957cfafb43e37.png",
+    "static/media/draw26.png": "/static/media/draw26.325a4e502f74cc2d2641.png",
     "index.html": "/index.html",
     "main.b34d9bad.css.map": "/static/css/main.b34d9bad.css.map",
-    "main.543e5415.js.map": "/static/js/main.543e5415.js.map"
+    "main.96381fa1.js.map": "/static/js/main.96381fa1.js.map"
   },
   "entrypoints": [
     "static/css/main.b34d9bad.css",
-    "static/js/main.543e5415.js"
+    "static/js/main.96381fa1.js"
   ]
 }
