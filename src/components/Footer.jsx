@@ -41,7 +41,7 @@ const Footer = () => {
             </article>
             <article>
                 <h4>Wawasan</h4>
-                <Link to="/maintenance">Blog</Link>
+                <Link to="/maintenance">Portal</Link>
                 <Link to="/sertifikat">Sertifikasi</Link>
             </article>
             <article>

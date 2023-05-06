@@ -1,7 +1,7 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/header_kontak.png'
 import {AiOutlineMail} from 'react-icons/ai'
-import {BsWhatsapp} from 'react-icons/bs'
+// import {BsWhatsapp} from 'react-icons/bs'
 import {BsInstagram} from 'react-icons/bs'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaTiktok} from 'react-icons/fa'
@@ -19,7 +19,7 @@ const Contact = () => {
         <div className="container contact__container">
           <div className="contact__wrapper">
             <a href="mailto:helmisalsabila70@gmail.com" target='_blank' rel='noreferrer noopener' alt="Email"><AiOutlineMail/></a>
-            <a href="https://wa.me/+6285900386218" target='_blank' rel='noreferrer noopener' alt="Whatsapp"><BsWhatsapp/></a>
+            {/* <a href="https://wa.me/+6285900386218" target='_blank' rel='noreferrer noopener' alt="Whatsapp"><BsWhatsapp/></a> */}
             <a href="https://instagram.com/hels.ae" target='_blank' rel='noreferrer noopener' alt="Instagram"><BsInstagram/></a>
           </div>
           <div className="contact__wrapper">

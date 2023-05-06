@@ -8,7 +8,7 @@ export const links = [
         path: '/'
     },
     {
-        name: "Blog",
+        name: "Portal",
         path: '/maintenance'
     },
     // {
@@ -26,6 +26,10 @@ export const links = [
     {
         name: "Tentang",
         path: '/about'
+    },
+    {
+        name: "Dukungan",
+        path: '/dukungan'
     },
     
     // {

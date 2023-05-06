@@ -8,7 +8,7 @@ const MainHeader = () => {
         <div className="main__header-left">
           <h4>Halo👋, Saya Helmi Salsabila</h4>
           <h1>Mahasiswa Teknik Informatika di Universitas Logistik dan Bisnis Internasional</h1>
-          <p>Saya sedang mencari peluang dalam dunia Pemrograman, Analis Data, Sains Data, Pembelajaran Mesin dan Desain dengan latar belakang Teknik Informatika.</p>
+          <p>"Kerjakan apa yang anda sukai, jadikan itu sebagai bisnis"</p>
           <Link to="/about" className="btn lg">Lihat Detail</Link>
         </div>
         <div className="main__header-right">

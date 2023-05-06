@@ -13,6 +13,21 @@ const About = () => {
         www.helmisalsabila.com
       </Header>
 
+      <section className='about__vision'>
+        <div className="container about__vision-container">
+          <div className="about__section-content">
+            <h1>Dukungan</h1>
+            <p>Dukungan bisa dilakukan dengan menscan QRIS pada gambar disamping kanan arahkan kursor (klik) ke gambar agar gambar bisa tegak lurus saat discan, atau bisa juga menggunakan cara yang dibawah ini.</p>
+            <p><a href="https://saweria.co/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Saweria</a> atau <a href="https://trakteer.id/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Trakteer</a></p>
+            <p>Saya ucapkan terimakasih banyak semoga Allah swt membalas kebaikan anda.</p>
+            <p>Amin.. </p>
+          </div>
+          <div className="about__section-image-vision">
+            <img src={Donasi} alt="Donasi" />
+          </div>
+        </div>
+      </section>
+
       <section className='about__story'>
         <div className="container about__story-container">
           <div className="about__section-image">
@@ -50,21 +65,7 @@ const About = () => {
           </div>
         </div>
       </section>
-
-      <section className='about__vision'>
-        <div className="container about__vision-container">
-          <div className="about__section-content">
-            <h1>Dukungan</h1>
-            <p>Dukungan bisa dilakukan dengan menscan QRIS pada gambar disamping kanan arahkan kursor (klik) ke gambar agar gambar bisa tegak lurus saat discan, atau bisa juga menggunakan cara yang dibawah ini.</p>
-            <p><a href="https://saweria.co/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Saweria</a> atau <a href="https://trakteer.id/helmisalsabila" target="_blank" rel="noreferrer noopener" className='btn sm'>Trakteer</a></p>
-            <p>Saya ucapkan terimakasih banyak semoga Allah swt membalas kebaikan anda.</p>
-            <p>Amin.. </p>
-          </div>
-          <div className="about__section-image-vision">
-            <img src={Donasi} alt="Donasi" />
-          </div>
-        </div>
-      </section>
+ 
     </>
   )
 }
