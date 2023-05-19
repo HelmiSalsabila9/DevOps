@@ -55,7 +55,7 @@ const Footer = () => {
             </article>
         </div>
         <div className="footer__copyright">
-            <small>Copyright &copy; 2022 <a href="/" className="footer_name">HelmiSalsabila.com</a>. All Right Reserved</small>
+            <small>Copyright &copy; 2023 <a href="/" className="footer_name">HelmiSalsabila.com</a>. All Right Reserved</small>
         </div>
     </footer>
   )

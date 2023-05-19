@@ -63,9 +63,9 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Penerapan Metode Klasifikasi Naive Bayes Dalam Memprediksi Siswa Unggulan",
-        info: "Tugas besar dari matakuliah Data Mining membuat aplikasi dan menerapkan metode algoritma yang sudah ditentukan serta membuat jurnalnya.",
-        path: "https://github.com/HelmiSalsabila9/Naive_Bayes/archive/refs/heads/master.zip"
+        title: "MEMBUAT BUKU: Peramalan Waktu Pengiriman Outbound Menggunakan Random Forest Regressor",
+        info: "Membuat buku mengenai machine learning yang bertujuan untuk mengetahui waktu pengiriman yang sesuai sehingga produk bisa dikirim tepat waktu.",
+        path: "https://play.google.com/store/books/details/Helmi_Salsabila_Peramalan_Waktu_Pengiriman_Outboun?id=3eC-EAAAQBAJ&hl=en"
     },
     {
         id: 2,
@@ -143,6 +143,13 @@ export const programs = [
         title: "Submission Belajar Dasar Pemrograman Web",
         info: "Submission yang merupakan hasil akhir dari kelas Belajar Dasar Pemrograman Web yang diselenggarakan oleh Dicoding.",
         path: "https://github.com/HelmiSalsabila9/Submission_Belajar_Dasar_Pemrograman_Web/archive/refs/heads/master.zip"
+    },
+    {
+        id: 13,
+        icon: <SiOpenaigym/>,
+        title: "Penerapan Metode Klasifikasi Naive Bayes Dalam Memprediksi Siswa Unggulan",
+        info: "Tugas besar dari matakuliah Data Mining membuat aplikasi dan menerapkan metode algoritma yang sudah ditentukan serta membuat jurnalnya.",
+        path: "https://github.com/HelmiSalsabila9/Naive_Bayes/archive/refs/heads/master.zip"
     },
 ]
 
@@ -404,31 +411,21 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "Berapa umurnya?",
-        answer: "Umur saya 21 tahun"
+        question: "Asal darimana?",
+        answer: "Saya berdomisili Bandung"
     },
     {
         id: 2,
-        question: "Tahun lahir?",
-        answer: "Saya lahir pada tahun 2000"
-    },
-    {
-        id: 3,
-        question: "Asal darimana?",
-        answer: "Saya asli dari Cirebon dan sekarang berdomisili di Jakarta"
-    },
-    {
-        id: 4,
         question: "Apa tujuan hidupnya?",
         answer: "Tujuan hidup saya adalah bagaimana saya bisa membahagiakan diri saya sendiri dan orang yang saya cintai serta orang yang selalu menjaga dan merawat saya dari kecil hingga sekarang dan selalu support saya dalam hal apapun."
     },
     {
-        id: 5,
+        id: 3,
         question: "Hobinya apa?",
         answer: "Saya memiliki hobi mencari tau hal-hal baru yang bisa saya pelajari."
     },
     {
-        id: 6,
+        id: 4,
         question: "Kuliyah dimana?",
         answer: "Saya kuliyah di Universitas Logistik dan Bisnis Internasional (ULBI) jurusan S1 Terapan Teknik Informatika."
     }
