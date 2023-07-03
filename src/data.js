@@ -63,89 +63,96 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
+        title: "JURNAL PENELITIAN: Social Media-Based Sentiment Analysis: Electric Vehicle Usage in Indonesia",
+        info: "Membuat jurnal penelitian mengenai analisis sentimen berbasis media sosial tentang penggunaan kendaraan listrik di Indonesia.",
+        path: "http://ijcs.stmikindonesia.ac.id/ijcs/index.php/ijcs/article/view/3250"
+    },
+    {
+        id: 2,
+        icon: <SiOpenaigym/>,
         title: "MEMBUAT BUKU: Peramalan Waktu Pengiriman Outbound Menggunakan Random Forest Regressor",
         info: "Membuat buku mengenai machine learning yang bertujuan untuk mengetahui waktu pengiriman yang sesuai sehingga produk bisa dikirim tepat waktu.",
         path: "https://play.google.com/store/books/details/Helmi_Salsabila_Peramalan_Waktu_Pengiriman_Outboun?id=3eC-EAAAQBAJ&hl=en"
     },
     {
-        id: 2,
+        id: 3,
         icon: <SiOpenaigym/>,
         title: "Sistem Pendukung Kelayakan Mahasiswa Mengikuti Tasmi",
         info: "Projek kaka tingkat untuk membangun sistem tersebut yang dimana saya ikut berkontribusi didalamnya sehingga aplikasi tercipta.",
         path: "https://github.com/HelmiSalsabila9"
     },
     {
-        id: 3,
+        id: 4,
         icon: <SiOpenaigym/>,
         title: "Klasifikasi Gambar Rock Paper Scissors",
         info: "Mengikuti course online mengenai tema Machine Learning yang dimana diberi studi kasus tersebut, ketika lulus saya dapat sertifikat",
         path: "https://github.com/HelmiSalsabila9/Klasifikasi_Gambar_RockPaperScissors/archive/refs/heads/master.zip"
     },
     {
-        id: 4,
+        id: 5,
         icon: <SiOpenaigym/>,
         title: "Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",
         info: "Membuat aplikasi menggunakan Laravel sebagai backend dan Vue Js Sebagai frontend dan terintegrasi oleh Payment Gateway",
         path: "https://github.com/HelmiSalsabila9"
     },
     {
-        id: 5,
+        id: 6,
         icon: <SiOpenaigym/>,
         title: "Membangun Website CMS Dengan Laravel dan Nuxt Js",
         info: "Membuat aplikasi menggunakan Laravel sebagai backend dan Nuxt Js Sebagai frontend dan juga sebagai Content Management System",
         path: "https://github.com/HelmiSalsabila9"
     },
     {
-        id: 6,
+        id: 7,
         icon: <SiOpenaigym/>,
         title: "Membuat Aplikasi Android",
         info: "Tugas besar dari matakuliah pemrograman 4 mengenai Java dengan beberapa ketentuan untuk diterapkan dalam aplikasi.",
         path: "https://github.com/HelmiSalsabila9/MiApp/archive/refs/heads/master.zip"
     },
     {
-        id: 7,
+        id: 8,
         icon: <SiOpenaigym/>,
         title: "Membangun Website Portfolio Dengan Tailwind",
         info: "Bertujuan untuk belajar membuat website portfolio menggunakan Css Tailwind",
         path: "https://github.com/HelmiSalsabila9/Tailwind-Portfolio/archive/refs/heads/master.zip"
     },
     {
-        id: 8,
+        id: 9,
         icon: <SiOpenaigym/>,
         title: "Membuat Aplikasi Dengan framework Django",
         info: "Untuk memenuhi tugas besar dari matakuliah Keamanan Sistem Informasi dengan membuat Django Password dan Django Register di lengkapi dengan beberapa validasi dan menampilkan nama user ketika berhasil login",
         path: "https://github.com/HelmiSalsabila9/DjangoPass/archive/refs/heads/master.zip"
     },
     {
-        id: 9,
+        id: 10,
         icon: <SiOpenaigym/>,
         title: "Membuat Template Yudisium Politeknik Pos Indonesia",
         info: "Ini adalah projek desain yang saya buat untuk acara yudisium secara daring yaknik jurusan Teknik Informatika Politeknik Pos Indonesia T.A 2020-2021",
         path: "https://github.com/HelmiSalsabila9/TEMPLATES_YUSIDUM/archive/refs/heads/master.zip"
     },
     {
-        id: 10,
+        id: 11,
         icon: <SiOpenaigym/>,
         title: "Tugas Besar Pemrograman 2",
         info: "Membuat aplikasi pemesanan makanan dengan menggunakan ASP.NET Core dan menerapkan MVC",
         path: "https://github.com/HelmiSalsabila9/TB_Pemrograman2/archive/refs/heads/main.zip"
     },
     {
-        id: 11,
+        id: 12,
         icon: <SiOpenaigym/>,
         title: "Tugas Besar Pemrograman 3",
         info: "Membuat aplikasi dan menerapkan Web API",
         path: "https://github.com/HelmiSalsabila9/Tugas_Pemrograman3_Web_API/archive/refs/heads/master.zip"
     },
     {
-        id: 12,
+        id: 13,
         icon: <SiOpenaigym/>,
         title: "Submission Belajar Dasar Pemrograman Web",
         info: "Submission yang merupakan hasil akhir dari kelas Belajar Dasar Pemrograman Web yang diselenggarakan oleh Dicoding.",
         path: "https://github.com/HelmiSalsabila9/Submission_Belajar_Dasar_Pemrograman_Web/archive/refs/heads/master.zip"
     },
     {
-        id: 13,
+        id: 14,
         icon: <SiOpenaigym/>,
         title: "Penerapan Metode Klasifikasi Naive Bayes Dalam Memprediksi Siswa Unggulan",
         info: "Tugas besar dari matakuliah Data Mining membuat aplikasi dan menerapkan metode algoritma yang sudah ditentukan serta membuat jurnalnya.",
@@ -395,9 +402,15 @@ export const values = [
     {
         id: 4,
         icon: <SiOpenaigym/>,
+        title: "ATT Corporate University",
+        desc: "Program kerja waktu tidak tertentu dan berkontribusi dalam membangun sistem People Development System."
+    },
+    {
+        id: 5,
+        icon: <SiOpenaigym/>,
         title: "Organisasi",
         desc: "Himpunan Mahasiswa Teknik Informatika (HIMATIF) di Universitas Logistik dan Bisnis Internasional, Organisasi Siswa Intra Sekolah (OSIS) di SMAN 1 Gegesik"
-    }
+    },
 ]
 
 
